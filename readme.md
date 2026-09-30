@@ -12,7 +12,7 @@ Coleção de aplicações desktop/web em **Python** usando o framework [Flet](ht
 | App de clima | `6_wheater_app/` | Consulta a previsão do tempo de uma cidade. |
 | Gerador | `gerador.py` |Gerador de senhas aleatórias. |
 | Gerenciador | `gerenciador.py` |Gerenciador de despesase gastos |
-| Tempo | `tempo.py`| cronômetro, relógio, timer |
+| Tempo | `tempo.py`| um cronômetro, relógio, timer ainda em desenvolvimento |
 
 ## Tecnologias
 
