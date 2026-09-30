@@ -28,19 +28,12 @@ Coleção de aplicações desktop/web em **Python** usando o framework [Flet](ht
    cd Projetos-Flet
    ```
 
-2. (Opcional) Crie e ative um ambiente virtual:
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate      # Windows
-   source venv/bin/activate   # Linux/macOS
-   ```
-
-3. Instale as dependências:
+2. Instale as dependências:
    ```bash
    pip install flet
    ```
 
-4. Execute o projeto que quiser:
+3. Execute o projeto que quiser:
    ```bash
    python imc.py
    ```
@@ -55,10 +48,6 @@ Coleção de aplicações desktop/web em **Python** usando o framework [Flet](ht
 - Construção de interfaces gráficas com Flet
 - Manipulação de eventos e estado da aplicação
 - Organização de código em Python
-- **[CONFIRME e adicione: consumo de API, manipulação de dados, etc.]**
 
-## Capturas de tela
 
-> Adicione aqui prints dos seus apps. Exemplo:
-> `![App de clima](assets/clima.png)`
 
