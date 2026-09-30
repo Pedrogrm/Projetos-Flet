@@ -6,13 +6,13 @@ Coleção de aplicações desktop/web em **Python** usando o framework [Flet](ht
 
 | Projeto | Arquivo / Pasta | Descrição |
 |---|---|---|
-| Calculadora de IMC | `imc.py` | Calcula o Índice de Massa Corporal a partir de peso e altura. **[CONFIRME]** |
-| NooBank | `noobank.py` | Simulação de um app bancário simples. **[CONFIRME o que ele faz: saldo, depósito, saque...]** |
+| Calculadora de IMC | `imc.py` | Calcula o Índice de Massa Corporal a partir de peso e altura. |
+| NooBank | `noobank.py` | Simulação de um app bancário simples. |
 | Lista de tarefas | `5_todo/` | App para adicionar, concluir e remover tarefas. |
-| App de clima | `6_wheater_app/` | Consulta a previsão do tempo de uma cidade. **[CONFIRME se usa API externa e qual]** |
-| Gerador | `gerador.py` | **[CONFIRME: gerador de senhas? de números? outro?]** |
-| Gerenciador | `gerenciador.py` | **[CONFIRME: gerenciador de quê?]** |
-| Tempo | `tempo.py` | **[CONFIRME: cronômetro, relógio, timer?]** |
+| App de clima | `6_wheater_app/` | Consulta a previsão do tempo de uma cidade. |
+| Gerador | `gerador.py` |
+| Gerenciador | `gerenciador.py` |
+| Tempo | `tempo.py` cronômetro, relógio, timer |
 
 ## Tecnologias
 
