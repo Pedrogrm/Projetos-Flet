@@ -11,8 +11,8 @@ Coleção de aplicações desktop/web em **Python** usando o framework [Flet](ht
 | Lista de tarefas | `5_todo/` | App para adicionar, concluir e remover tarefas. |
 | App de clima | `6_wheater_app/` | Consulta a previsão do tempo de uma cidade. |
 | Gerador | `gerador.py` |Gerador de senhas aleatórias. |
-| Gerenciador | `gerenciador.py` |
-| Tempo | `tempo.py` cronômetro, relógio, timer |
+| Gerenciador | `gerenciador.py` |Gerenciador de despesase gastos |
+| Tempo | `tempo.py`| cronômetro, relógio, timer |
 
 ## Tecnologias
 
