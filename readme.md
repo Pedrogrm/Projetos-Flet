@@ -1,8 +1,8 @@
-# Projetos Flet 🐍
+# Projetos Flet 
 
 Coleção de aplicações desktop/web em **Python** usando o framework [Flet](https://flet.dev), criadas durante meus estudos de programação e desenvolvimento de interfaces.
 
-## 📁 Projetos
+## Projetos
 
 | Projeto | Arquivo / Pasta | Descrição |
 |---|---|---|
@@ -14,13 +14,13 @@ Coleção de aplicações desktop/web em **Python** usando o framework [Flet](ht
 | Gerenciador | `gerenciador.py` | **[CONFIRME: gerenciador de quê?]** |
 | Tempo | `tempo.py` | **[CONFIRME: cronômetro, relógio, timer?]** |
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Python 3
 - Flet
 - **[CONFIRME se usa outras bibliotecas, como `requests`]**
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone o repositório:
    ```bash
@@ -50,22 +50,15 @@ Coleção de aplicações desktop/web em **Python** usando o framework [Flet](ht
    flet run imc.py
    ```
 
-## 🎯 O que pratiquei
+## O que pratiquei
 
 - Construção de interfaces gráficas com Flet
 - Manipulação de eventos e estado da aplicação
 - Organização de código em Python
 - **[CONFIRME e adicione: consumo de API, manipulação de dados, etc.]**
 
-## 📸 Capturas de tela
+## Capturas de tela
 
 > Adicione aqui prints dos seus apps. Exemplo:
 > `![App de clima](assets/clima.png)`
 
-## 👤 Autor
-
-**Pedro Murilo Grigorjevs Alves**
-Estudante de Ciências da Computação (USJT) | Técnico em Desenvolvimento de Sistemas (SENAI)
-
-- [LinkedIn](https://www.linkedin.com/in/pedro-murilo-grigorjevs-alves-4090283a0)
-- [GitHub](https://github.com/Pedrogrm)
